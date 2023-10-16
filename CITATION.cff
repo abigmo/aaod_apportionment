@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Bigi
+  given-names: Alessandro
+orcid: https://orcid.org/0000-0002-1310-5296
+title: AAOD Apportionment
+version: 1.0.0
+date-released: 2023-10-16
+                                
